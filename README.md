@@ -2,7 +2,7 @@
 receita tropeiro html
 
 <!DOCTYPE html> 
-<html lang="en">
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -30,8 +30,9 @@ receita tropeiro html
                     <li> Alho amassado</li>
                         <li> 1 cebola picada</li>
                             <li>2 Ovos cozidos</li>
+    </ul>
 
-                            </ul>
+                            
 
 <h3> <dfn> PORÇÕES </dfn> </h3>
 <p> <mark> Serve 15 pessoas </p> </mark>
@@ -53,8 +54,9 @@ receita tropeiro html
                                 <li>  Pique os ovos cozidos e junte ao feijão.</li>
                                     <li>  Deixe no fogo por mais alguns minutos.</li>
                                         <li>  Sirva com arroz branco.</li>
-
     </ol>
+
+    
   
   
   </body>
